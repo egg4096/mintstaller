@@ -1,4 +1,9 @@
 # mintstaller
-Simple installer for Mint X and Mint Y icons
+### description
+simple installer for Mint X and Mint Y icons
 
-###### *Themes soon, hopefully*
+### usage
+```
+git clone https://github.com/egg4096/mintstaller && chmod +x mintstaller/install.sh && mintstaller/install.sh
+```
+###### *themes soon, hopefully*
